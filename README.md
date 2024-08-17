@@ -13,9 +13,9 @@
 - ⚡ Fun fact: ...
 -->
 
-##Proficiency
--Advance Excel for data analystics
--SQL
--PowerBi
--Tableau
--Python
+## Proficiency
+- Advance Excel for data analystics
+- SQL
+- PowerBi
+- Tableau
+- Python
