@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## This is Kelechi Augustine Nwosu
+## My name Kelechi Augustine Nwosu
 
 - 🔭 I’m currently working on building portfolio ...
 - 🌱 I’m currently learning data analyst...
