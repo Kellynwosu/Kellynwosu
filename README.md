@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ## My name is Kelechi Augustine Nwosu
+## A Data Analyst
 
 - 🔭 I’m currently working on various data projects to upscale my skill...
 - 🌱 I’m currently learning data analyst...
